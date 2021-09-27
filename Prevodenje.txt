@@ -1,0 +1,2 @@
+csc Game.cs -r:System.Drawing.dll  -r:System.Windows.Forms.dll -r:WindowsBase.dll
+
